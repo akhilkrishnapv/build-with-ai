@@ -21,8 +21,9 @@ Google AI is integrated into the core analysis pipeline of TruthLens. When media
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-![AI Proof](proof\Screenshot (37).png)
-![AI Proof](proof\Screenshot (38).png)
+![AI Proof 1](proof/Screenshot%20(37).png)
+
+![AI Proof 2](proof/Screenshot%20(38).png)
 
 
 
@@ -31,13 +32,19 @@ Attach screenshots in a `/proof` folder:
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](screenshots\Screenshot (29).png)  
-![Screenshot2](screenshots\Screenshot (30).png)
-![Screenshot3](screenshots\Screenshot (31).png)
-[Screenshot4](screenshots\Screenshot (32).png)
-[Screenshot5](screenshots\Screenshot (33).png)
-[Screenshot6](screenshots\Screenshot (34).png)
-[Screenshot7](screenshots\Screenshot (36).png)
+![Screenshot1](screenshots/Screenshot%20(29).png)
+
+![Screenshot2](screenshots/Screenshot%20(30).png)
+
+![Screenshot3](screenshots/Screenshot%20(31).png)
+
+![Screenshot4](screenshots/Screenshot%20(32).png)
+
+![Screenshot5](screenshots/Screenshot%20(33).png)
+
+![Screenshot6](screenshots/Screenshot%20(34).png)
+
+![Screenshot7](screenshots/Screenshot%20(36).png)
 
 
 
