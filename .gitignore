@@ -1,0 +1,8 @@
+*.json
+.agent/skills/brainstorming/scripts/node_modules/anymatch/LICENSE
+.agent/skills/brainstorming/scripts/node_modules/anymatch/README.md
+.agent/skills/brainstorming/scripts/node_modules/array-flatten/array-flatten.js
+.agent/skills/brainstorming/scripts/node_modules/array-flatten/LICENSE
+.agent/skills/brainstorming/scripts/node_modules/array-flatten/README.md
+.agent/skills/brainstorming/scripts/node_modules/binary-extensions/binary-extensions.json.d.ts
+.agent/skills/brainstorming/scripts/node_modules/binary-extensions/index.d.ts
