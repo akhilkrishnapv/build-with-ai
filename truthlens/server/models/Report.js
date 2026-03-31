@@ -1,0 +1,11 @@
+import mongoose from 'mongoose';
+
+const ReportSchema = new mongoose.Schema({
+  userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+  title: { type: String, required: true },
+  content: { type: String, required: true },
+  linkedHistoryId: { type: mongoose.Schema.Types.ObjectId, ref: 'History' },
+  createdAt: { type: Date, default: Date.now }
+});
+
+export default mongoose.model('Report', ReportSchema);
